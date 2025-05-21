@@ -1,10 +1,9 @@
 {
-  "name": "vite-trello-web-base-project",
+  "name": "trello-web",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "author": "TrungQuanDev - Một Lập Trình Viên",
-  "description": "https://youtube.com/@trungquandev",
+  "author": "ChiPhucDev - Một Lập Trình Viên",
   "engines": {
     "node": ">=18.x"
   },
@@ -16,7 +15,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
