@@ -32,7 +32,7 @@ function Profiles() {
           aria-expanded={open ? 'true' : undefined}
         >
           <Avatar
-            sx={{ width: 34, height: 34 }}
+            sx={{ width: 36, height: 36 }}
             src="https://scontent.fdad3-6.fna.fbcdn.net/v/t1.15752-9/486039186_1029034495752989_3052485726274769344_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=bdG_5_Ds3vYQ7kNvwEcdzQi&_nc_oc=AdlzmUinVmqCBz-vqtFg2f6qEBHbb2sUYxhIBqSLJkdTQLgkTmvlDiJbfwomzrYAdstw4OdWNdtpFA1u69W_teHO&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fdad3-6.fna&oh=03_Q7cD2QEi2g33NLGzufkYjW6iqPc3WgVC_WTTXInnaMJlzpGcwA&oe=685C471B"
             alt="TranChiPhuc"
           />
