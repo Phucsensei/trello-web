@@ -15,7 +15,7 @@ function ListCards({ cards }) {
         maxHeight: theme => `calc(
             ${theme.trello.boardContentHeight} - 
             ${theme.spacing(5)} -
-            ${theme.trello.columnHeaderHeight} -
+            ${theme.trello.columnheaderheight} -
             ${theme.trello.columnfooterheight}
 )`,
         '&::-webkit-scrollbar-thumb': { backgroundColor: '#ced0da' },
