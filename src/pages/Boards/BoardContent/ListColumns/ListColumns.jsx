@@ -9,6 +9,7 @@ function ListColumns({ columns }) {
   Nếu không đúng thì vẫn có thể kéo thả được, nhưng nó sẽ không có animation
   https://github.com/clauderic/dnd-kit/issues/183#issuecomment-812569512
 */
+
   return (
     <SortableContext items={columns?.map(c => c._id)} strategy={horizontalListSortingStrategy}>
       <Box
